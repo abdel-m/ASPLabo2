@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A92DFF63-00C4-43E8-A230-9B1C76A36B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testUnitaire", "testUnitaire\testUnitaire.csproj", "{371E18E6-4040-4A74-BF94-9CC2FACE05BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionFonctionnelle", "testUnitaire\InsertionFonctionnelle.csproj", "{371E18E6-4040-4A74-BF94-9CC2FACE05BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "..\..\..\..\Documents\Visual Studio 2013\Projects\WPFClient\WPFClient.csproj", "{8A3822D2-71BB-488C-BBFA-C9C75E77F668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{371E18E6-4040-4A74-BF94-9CC2FACE05BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371E18E6-4040-4A74-BF94-9CC2FACE05BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371E18E6-4040-4A74-BF94-9CC2FACE05BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

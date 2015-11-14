@@ -15,5 +15,10 @@ namespace ClassLibrary1
         {
 
         }
+
+        public CompanyContext()
+        {
+            // TODO: Complete member initialization
+        }
     }
 }
